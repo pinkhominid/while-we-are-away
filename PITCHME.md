@@ -38,6 +38,7 @@ Have a blast! 🎆
 ### Treats
 - Lots of treats, don't be stingy
 - BUT only for good behavior
+- If you want him to do something, use treats!
 - If he needs a good distraction,
   cream cheese rubber toy in his cage
 
