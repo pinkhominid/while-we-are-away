@@ -28,7 +28,7 @@ Have a blast! 🎆
 ### Food
 - A cup of food 3-4 times through the day
 - Fresh water all day
-  - Not too much in the evening
+  - Not too much in the evening (Eden too!)
 
 ### Treats
 - Lots of treats, don't be stingy
