@@ -1,65 +1,60 @@
----
-marp: true
-title: Marp CLI example
-description: Hosting Marp slide deck on the web
-theme: uncover
-paginate: true
-_paginate: false
----
+# While We Are Away
+<!-- headingDivider: 3 -->
 
-![bg](./assets/gradient.jpg)
+❤️ Holly, Edie, Violet ❤️
 
-# <!--fit--> Marp CLI example
+Here are some notes and reminders for when we are gone.
+Have a blast! 🎆
 
-Hosting Marp slide deck on the web
+## Medication
 
-https://github.com/yhatt/marp-cli-example
+- Holland
+  - Sertraline x2 after breakfast
+- Holland & Violet
+  - Bring Epipens!
 
-<style scoped>a { color: #eee; }</style>
 
----
+## Dog Tips
+<!-- backgroundImage: url(assets/pidge.png) -->
+<!-- backgroundSize: 500px -->
+<!-- backgroundPosition: right 50px center -->
 
-![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)
+### Outside for potty
+- Right before bed
+- First thing in the morning
+- Every 1-2 hrs
+  - After a nap is usually a good time
 
----
+### Food
+- A cup of food 3-4 times through the day
+- Fresh water all day
+  - Not too much in the evening
 
-![bg](#123)
-![](#fff)
+### Treats
+- Lots of treats, don't be stingy
+- BUT only for good behavior
 
-##### <!--fit--> [@marp-team/marp-cli](https://github.com/marp-team/marp-cli) + [Netlify](https://www.netlify.com/) | [Now](https://zeit.co/now)
+### Play
+- Be prepared! Before you play..
+  - Bring a partner
+  - Have toys to distract
+  - If bitey, see below
 
-##### <!--fit--> 👉 The easiest way to host<br />your Marp deck on the web
+### Exercise
+- He needs exercise
+- If not, he will be crazy
+- When he is sweet, play fetch
+- If bitey, see below
 
----
+### Biting
 
-![bg right 70%](https://www.netlify.com/img/press/logos/logomark.svg)
+1. Stand up
+1. "Sit"
+1. Call for help, partner distracts him with toy
+1. Go behind gate
+1. Wait a moment till he calms
+1. Come back
+1. "Sit"
+1. Good boy
 
-## **[Netlify](https://www.netlify.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Netlify w:300](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yhatt/marp-cli-example)
-
----
-
-![bg right 70%](https://assets.zeit.co/image/upload/front/assets/design/now-black.svg)
-
-## **[Now](https://zeit.co/now)**
-
-#### Host your deck by just running `now`!
-
-```bash
-now
-```
-
----
-
-### <!--fit--> :ok_hand:
-
----
-
-![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/3993388?v=4)
-
-### Created by Yuki Hattori ([@yhatt](https://github.com/yhatt))
-
-https://github.com/yhatt/marp-cli-example
+This is working! Keep it up 🐶
