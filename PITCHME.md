@@ -6,13 +6,17 @@
 Here are some notes and reminders for when we are gone.
 Have a blast! 🎆
 
+## Braces
+
+- Holland & Eden rubber bands every night!
+
 ## Medication
 
 - Holland
   - Sertraline x2 after breakfast
+  - Allergy shots 1-2 per week
 - Holland & Violet
   - Bring Epipens!
-
 
 ## Dog Tips
 <!-- backgroundImage: url(assets/pidge.png) -->
@@ -59,3 +63,19 @@ Have a blast! 🎆
 1. Good boy
 
 This is working! Keep it up 🐶
+
+## Have Fun!
+
+<!-- backgroundPosition: center -->
+<!-- backgroundSize: auto -->
+<!-- _backgroundImage: url(assets/hairless.jpg) -->
+
+###
+<!-- _backgroundImage: url(assets/more-dog.jpg) -->
+<!-- _backgroundSize: 800px -->
+
+###
+<!-- _backgroundImage: url(assets/pringle.jpg) -->
+
+###
+<!-- _backgroundImage: url(assets/sickgoose.jpg) -->
