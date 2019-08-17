@@ -21,6 +21,7 @@ Have a blast! 🎆
 
 ### Outside for potty
 - Right before bed
+- 1-2 during the night
 - First thing in the morning
 - Every 1-2 hrs
   - After a nap is usually a good time
