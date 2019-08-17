@@ -38,12 +38,16 @@ Have a blast! 🎆
 ### Treats
 - Lots of treats, don't be stingy
 - BUT only for good behavior
+- If he needs a good distraction,
+  cream cheese rubber toy in his cage
 
 ### Play
 - Be prepared! Before you play..
   - Bring a partner
   - Have toys to distract
   - If bitey, see below
+- Toys
+  - Change toys daily to keep him interested
 
 ### Exercise
 - He needs exercise
